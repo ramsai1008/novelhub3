@@ -1,10 +1,4 @@
 {
-   npm install -D tailwindcss postcss autoprefixer
-},
-{
-    npx tailwindcss init -p
-},
-{
   "name": "nextjs-13-firebase-starter",
   "version": "0.1.0",
   "private": true,
