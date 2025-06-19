@@ -1,3 +1,4 @@
+npm install tailwindcss @tailwindcss/postcss postcss
 {
   "name": "nextjs-13-firebase-starter",
   "version": "0.1.0",
@@ -23,6 +24,4 @@
     "tailwindcss": "4.1.8",
     "typescript": "5.8.3"
   }
-  npm install -D @tailwindcss/postcss
-
 }
